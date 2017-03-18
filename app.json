@@ -4,7 +4,7 @@
 ],
 "buildpacks": [
   {
-    "url": "https://github.com/mietek/haskell-on-heroku"
+    "url": "https://github.com/begriffs/heroku-buildpack-ghc.git"
   }
 ]
 
