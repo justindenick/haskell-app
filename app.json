@@ -1,0 +1,11 @@
+{
+  "addons": [
+  "heroku-postgresql"
+],
+"buildpacks": [
+  {
+    "url": "https://github.com/mietek/haskell-on-heroku"
+  }
+]
+
+}
